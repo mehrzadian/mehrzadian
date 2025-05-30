@@ -30,14 +30,14 @@
 
 ### :man_technologist: About Me :
 I am a computer engineering student <img src="https://media.giphy.com/media/YFFGUPTPTRqIhwepA4/giphy.gif" width="30"> from IRAN.
-- :telescope:Right now, I'm a student trying to get best scores I can 👨‍🎓
+- :telescope:I’m currently working on speech recognition.
 
-- :seedling: Exploring in machine learning and data Science concepts.
+- :seedling: Exploring in TrustworthyAI and AgenticAI concepts.
 
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+- :zap: In my free time, I solve problems on read tech articles and books. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirreza-mehrzadian/)
-
+  
 
 ---
 
